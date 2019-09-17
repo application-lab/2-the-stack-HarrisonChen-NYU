@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+ 
+ h1  {
+    color: Green;
+    text-align: center;
+  }
+  h2 {
+      Color: Green
+      text-align: center
+  }
+  
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: left
+}
+
+img{
+    text-align: center;
+    width:200px;
+    height:200px;
+    border:0;
+}
